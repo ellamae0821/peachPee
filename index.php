@@ -13,7 +13,7 @@
 </head>
 <body>
   <!-- cd ~/.bitnami/stackman/machines/xampp/volumes/root/htdocs -->
-  FINALLY!
+
   <div class="container">
     <div class="col-md-4"></div>
     <div class="col-md-8"></div>
@@ -96,42 +96,32 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-6 col-md-3">
+      <div class="col-xs-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
         </a>
       </div>
-      <div class="col-xs-6 col-md-3">
+      <div class="col-xs-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
         </a>
       </div>
-      <div class="col-xs-6 col-md-3">
+      <div class="col-xs-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
         </a>
       </div>
-      <div class="col-xs-6 col-md-3">
+      <div class="col-xs-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
         </a>
       </div>
-      <div class="col-xs-6 col-md-3">
+      <div class="col-xs-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
         </a>
       </div>
-      <div class="col-xs-6 col-md-3">
-        <a href="#" class="thumbnail">
-          <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
-        </a>
-      </div>
-      <div class="col-xs-6 col-md-3">
-        <a href="#" class="thumbnail">
-          <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
-        </a>
-      </div>
-      <div class="col-xs-6 col-md-3">
+      <div class="col-xs-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="https://www.techcoffees.com/wp-content/uploads/2018/02/bootstrap-wallpaper.png" alt="thumbnailphoto">
         </a>
