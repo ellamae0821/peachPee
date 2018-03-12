@@ -1,6 +1,6 @@
 
   <div class="container">
-      <small>&copy; Coding Cyber @2017</small>
+      <small>&copy; Ella Mae Arana recreates Hawaii.com CMS</small>
   </div>
 </body>
 </html>
