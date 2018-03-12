@@ -1,3 +1,23 @@
+<?php
+session_start();
+require('../config/connect.php');
+if (isset($_POST) and !empty($_POST)){
+  //The mysqli_real_escape_string() function escapes special characters in a string for use in an SQL statement.
+  $email = mysqli_real_escape_string($connection, $_POST['email']);
+  $password = md5(mysqli_real_escape_string($connection, $_POST['password']));
+  $query = "SELECT * FROM `user` WHERE email='$email' and password='$password'";
+
+  $result = mysqli_query($connection, $query) or die(mysqli_error($connection));
+  $count = mysqli_num_rows($result);
+  if ($count == 1){
+    $_SESSION['email'] = $email;
+    header('location: index.php');
+    //echo "user exists";
+  }else{
+    $fmsg = "Invalid Login Credentials.";
+  }
+}
+?>
 
 
 <!DOCTYPE html>
